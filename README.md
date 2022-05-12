@@ -12,5 +12,17 @@
 
 [Audio lab](https://rawcdn.githack.com/rasheedalli/Audio-Lab/51425c9975516403b0bd8bf772e1191c1fe912b7/Audio%20Lab/Sound.html)
 
+[Phaser information]()
+
 ## Projects
 [Data Visualization]()
+
+[PiesocketWebsocket tester]()
+
+[Wick editor project]()
+
+[Animation]()
+
+[Cartoon]()
+
+[Audio project]()
